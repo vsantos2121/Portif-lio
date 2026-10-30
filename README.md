@@ -51,18 +51,6 @@ portfolio/
 
 ---
 
-## 🚀 Como rodar
-
-Não precisa instalar nada. É só clonar e abrir no navegador:
-
-```bash
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
-cd NOME-DO-REPOSITORIO
-```
-
-Depois, abra o arquivo `index.html` com duplo clique. ✅
-
----
 
 ## 📬 Contato
 
